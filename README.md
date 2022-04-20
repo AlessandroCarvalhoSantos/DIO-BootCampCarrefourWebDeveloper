@@ -66,7 +66,8 @@ Entrei nesse BootCamp principalmente como um desafio de estudo e concluir os pro
         <img style="margin-top:10px" src="./Outros/assets/img/readme/Boletim4.png">
     </div>
 </details>
-
+ 
+ 
 
 
 | Sistema municipal de coleta de materiais (Entrando na etapa de implantação) |
@@ -88,6 +89,7 @@ Entrei nesse BootCamp principalmente como um desafio de estudo e concluir os pro
 
 
 
+
 | Sistema de cadastro em eventos esportivos municipais (Implementado) |
 | :----------------------------------------------------------: |
 | Desenvolvi o site utilizando tecnologias como PHP, JavaScript, HTML/CSS, Bootstrap, criei a parte de banco de dados no Oracle. O sistema é acessado como web-view em um App da prefeitura, ele basicamente lista os eventos e possui um formulário de inscrição, e você pode imprimir o comprovante. |
@@ -103,6 +105,7 @@ Entrei nesse BootCamp principalmente como um desafio de estudo e concluir os pro
          <img style="margin-top:10px" src="./Outros/assets/img/readme/Esporte6.png">
     </div>
 </details>
+
 
 
 
@@ -124,6 +127,7 @@ Entrei nesse BootCamp principalmente como um desafio de estudo e concluir os pro
 
 
 
+
 |       Sistema de sorteio da prefeitura (Implementado)        |
 | :----------------------------------------------------------: |
 | Desenvolvi o site utilizando tecnologias como PHP, JavaScript, HTML/CSS, Bootstrap e criei a parte de banco de dados no Oracle. O sistema conta painel administrativo e parte de usuário, o sistema tem intuito de realizar sorteio para a prefeitura, o sistema é todo adaptável para necessidade do tipo de sorteio, possui área usuário que pode ser usada ou não, ou os dados podem ser importados também. O sistema possui painel administrativo, e uma área de usuário. |
@@ -137,6 +141,7 @@ Entrei nesse BootCamp principalmente como um desafio de estudo e concluir os pro
         <img style="margin-top:10px" src="./Outros/assets/img/readme/Sorteio4.png">
     </div>
 </details>
+
 
 
 
@@ -159,23 +164,24 @@ Entrei nesse BootCamp principalmente como um desafio de estudo e concluir os pro
 
 
 
+
 :ledger: Bom, se você chegou ate aqui é que você se interessou pelo meu perfil, agradeço por ter lido e abaixo tenho algumas formas de entrar em contato caso tenha interesse para algum trabalho profissional, fique a vontade!
 
 
 
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">(28) 99976-2587
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> (28) 99976-2587
 
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">(28) 99976-2587
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> (28) 99976-2587
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">santoscarvalhoalessandro@gmail.com
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> santoscarvalhoalessandro@gmail.com
 
-<img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">alessandrocarvalhosantos@protonmail.com
+<img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"> alessandrocarvalhosantos@protonmail.com
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">www.linkedin.com/in/alessandrocarvalhosantos
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> ww.linkedin.com/in/alessandrocarvalhosantos
 
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">https://github.com/AlessandroCarvalhoSantos/
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> https://github.com/AlessandroCarvalhoSantos/
 
-<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">Em breve
+<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"> Em breve
 
 <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"> Em breve
 
@@ -183,4 +189,4 @@ Entrei nesse BootCamp principalmente como um desafio de estudo e concluir os pro
 
 ------------
 
-> **"É divertido fazer o impossível, pois lá a concorrência é menor." ** *Walt Disney*
+> ** "É divertido fazer o impossível, pois lá a concorrência é menor." ** *Walt Disney*
