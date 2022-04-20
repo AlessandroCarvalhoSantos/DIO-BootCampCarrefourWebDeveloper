@@ -67,7 +67,7 @@ Entrei nesse BootCamp principalmente como um desafio de estudo e concluir os pro
     </div>
 </details>
  
- 
+
 
 
 | Sistema municipal de coleta de materiais (Entrando na etapa de implantação) |
@@ -189,4 +189,4 @@ Entrei nesse BootCamp principalmente como um desafio de estudo e concluir os pro
 
 ------------
 
-> ** "É divertido fazer o impossível, pois lá a concorrência é menor." ** *Walt Disney*
+> <b>"É divertido fazer o impossível, pois lá a concorrência é menor."</b>  *Walt Disney*
