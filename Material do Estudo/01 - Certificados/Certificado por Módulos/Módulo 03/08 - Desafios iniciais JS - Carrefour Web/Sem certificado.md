@@ -1,0 +1,1 @@
+Essa parte do curso não teve certificado, pois foi pequenos desafio em js
