@@ -1,7 +1,7 @@
 class contaBancaria{
     constructor(agencia,numero,saldo,tipo ="contaBancaria"){
         this.agencia = agencia;
-        this.tipo = tipo;
+        this._tipo = tipo;
         this.numero = numero;
         this._saldo = saldo;
     }
@@ -13,13 +13,16 @@ class contaBancaria{
     set saldo(valor){
         this._saldo = valor
     }
+    get tipo(){
+        return this.tipo 
+    }
 
-    sacar(sque){
-        if(this._saldo <saque){
+    sacar(ssque){
+        if(this._saldo < saque){
             console.log("Operação negada")
         }
         this._saldo -= saque 
-        return this._saldo -= saque 
+        return this._saldo;
     }
 
     depositar(deposito){
@@ -57,7 +60,7 @@ class contaUniversitaria extends contaBancaria{
         super("contaUniversitaria")
     }
 
-    sacar(sque){
+    sacar(saque){
         super.sacar()
 
         if(saque >500){
@@ -79,4 +82,5 @@ const c = new contaPoupanca();
 const d = new contaUniversitaria();
 
 a.setSaldo(500);
-console.log(a.getSaldo());
+console.log(a.saldo());
+console.log(a.tipo());
