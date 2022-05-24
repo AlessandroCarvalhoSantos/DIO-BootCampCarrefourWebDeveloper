@@ -177,7 +177,7 @@ Entrei nesse BootCamp principalmente como um desafio de estudo e concluir os pro
 
 <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"> alessandrocarvalhosantos@protonmail.com
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> ww.linkedin.com/in/alessandrocarvalhosantos
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> www.linkedin.com/in/alessandrocarvalhosantos
 
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> https://github.com/AlessandroCarvalhoSantos/
 
